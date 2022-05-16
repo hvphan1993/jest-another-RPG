@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvphan1993/jest-another-RPG.git"
+  },
+  "author": "Hien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hvphan1993/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/hvphan1993/jest-another-RPG#readme"
+}
